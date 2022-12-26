@@ -1,0 +1,70 @@
+.row{
+  padding-bottom:4px;
+}
+.headline{
+  font-family: "Bree Serif", serif;
+  border: 0px 1px 1px 1px solid rgb(109, 107, 114);
+  padding:5px;
+  box-shadow: 1px 1px 1px 2px #888888;
+  border-radius:20px;
+}
+.auth{
+  font-weight: 100;
+  font-size:12px;
+}
+.heading{
+  color:#ff7433;
+  /*background: linear-gradient(to bottom, #ff7433, #ff6433);*/
+  font-family: aktiv-grotesk,sans-serif;
+  font-weight: 800;
+  line-height: 1.1;
+}
+.btn{
+  color:#ff7433;
+  border: 2px solid #ff7433;
+  background-color: #fff;
+  font-size: 15px;
+  padding: 8px;
+  text-transform: uppercase;
+  text-decoration: none;
+
+}
+.paginatn{
+  padding-top:10px;
+  text-align: center;
+}
+
+.article-content{
+  font-weight: 400;
+    color: #333;
+    letter-spacing: -.1px;
+    margin: 20px 0;
+}
+.sub-head{
+  color:#00d301;
+}
+.center{
+  text-align: center;
+}
+.article__featured-image{
+  width:80%;
+margin: auto;
+display: block;
+}
+
+.col-12{
+  width: 99.9%;
+}
+.col-6{
+  width: 48.8%
+}
+.col-4{
+  width:24.8%;
+}
+.col-3{
+  width:32.33%
+}
+.sub-head{
+  font-weight:bold;
+  text-transform: uppercase;
+}
